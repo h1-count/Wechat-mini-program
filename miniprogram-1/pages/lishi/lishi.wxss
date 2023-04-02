@@ -1,0 +1,184 @@
+.body{
+  padding: 15px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  opacity: 1;
+  background: rgba(0, 0, 0, 0.08);
+}
+
+.kuang1{
+  position: absolute;   
+  top: 10px;
+  width: 87%;
+  height: 136px;
+  border-radius: 10px;
+  background: #fff;
+}
+
+.tupian1{  
+  position: absolute;
+  left: 6px;
+  top: 0px;
+  width: 96px;
+  height: 69.96px;
+  background: url(刀削面.webp);
+}
+
+.dingdan{
+  position: absolute;
+  left: 130px;
+  line-height:inherit;
+  font-family: SourceHanSansCN-Regular;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 24px;
+  letter-spacing: 0px;
+  color: #3D3D3D;
+}
+
+.ziqu_kuang{
+  position: absolute;
+  right: 20px;
+  top: 10px;
+  width: 92px;
+  height: 45px;
+  border-radius: 10px;
+  background: #FFF8C6;
+  font-family: SourceHanSansCN-Regular;
+  font-size: 18px;
+  font-weight: normal;
+  text-align: center;
+  line-height: 230%;
+  letter-spacing: 0em;
+   color: #3D3D3D;
+}
+
+.xiaoji{
+  position: absolute;
+  right: 20px;
+  top: 53px;
+  width: 92px;
+  height: 28.42px;
+  font-family: SourceHanSansCN-Regular;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 24px;
+  letter-spacing: 0px;
+  color: #3D3D3D;
+}
+
+.kuang1_1{
+  position: absolute;
+  left: 0px;
+  top: 80px;
+  width: 240px;
+  height: 26px;
+  border-radius: 7.5px;
+  background: rgba(0, 0, 0, 0.08);
+}
+
+.kuang1_1_1{
+  position: absolute;
+  left: 17px;
+  top: 5px;
+  width: 60px;
+  height: 15px;
+  font-family: MicrosoftYaHei-Bold;
+  font-size: 12px;
+  font-weight: normal;
+  line-height: 15px;
+  text-align: center;
+  letter-spacing: 0em;
+  border-radius: 5px;
+  background: #cecdca;
+  color: #FFF8C6;
+}
+
+.kuang1_1_2{
+  position: absolute;
+  left: 90px;
+  top: 7px;
+  font-family: SourceHanSansCN-Regular;
+  font-size: 10px;
+  font-weight: normal;
+  letter-spacing: 0em;
+  color: #3D3D3D;
+}
+
+.zhizuozhong{
+  position: absolute;
+  left: 18px;
+  top: 96px;
+  width: 64px;
+  height: 45px;
+  font-family: MicrosoftYaHei;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 47px;
+  letter-spacing: 0.2em;
+  color: #3D3D3D;
+}
+
+.kuang1_2{
+  position: absolute;
+  right:20px;
+  top: 111px;
+  width: 92px;
+  height: 19px;
+  background: #FFF8C6;
+  font-family: MicrosoftYaHei;
+  font-size: 12px;
+  font-weight: normal;
+  line-height: 20px;
+  text-align: center;
+  letter-spacing: 0.2em;
+  color: #3D3D3D;
+}
+
+.kuang2{
+  position: absolute;
+  top: 155px;
+  width: 87%;
+  height: 136px;
+  border-radius: 10px;
+  background: #fff;
+}
+
+.kuang3{
+  position: absolute;
+  top: 300px;
+  width: 87%;
+  height: 136px;
+  border-radius: 10px;
+  background: #fff;
+}
+
+.kuang4{
+  position: absolute;
+  top: 445px;
+  width: 87%;
+  height: 136px;
+  border-radius: 10px;
+  background: #fff;
+}
+
+.kuang5{
+  position: absolute;
+  top: 590px;
+  width: 87%;
+  height: 136px;
+  border-radius: 10px;
+  background: #fff;  
+}
+
+.kuang6{
+  position: absolute;
+  top: 735px;
+  width: 87%;
+  height: 136px;
+  border-radius: 10px;
+  background: #fff;  
+}

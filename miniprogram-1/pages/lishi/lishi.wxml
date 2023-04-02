@@ -1,0 +1,24 @@
+<!--pages/lishi/lishi.wxml-->
+<view class="body" style="height:100%;width=100%">
+    <view class="kuang1">
+        <view>
+            <image class="tupian1" src="../../img/tupian1.png" alt="">tupian</image>
+            <text class="dingdan" space="nbsp">刀削面\n微辣\n×1</text>
+            <view class="ziqu_kuang">自取</view>
+            <view class="xiaoji" space="nbsp">小计         ￥14</view>
+        </view>
+        <view class="kuang1_1">
+            <view class="kuang1_1_1">店铺地址</view>
+            <view class="kuang1_1_2">西苑一楼七餐：西北刀削面</view>
+        </view>
+        <view>
+            <text class="zhizuozhong">已完成</text>
+            <view class="kuang1_2" bindtap="evaluation">评价</view>
+        </view>
+    </view>
+    <view class="kuang2"></view>        
+    <view class="kuang3"></view>
+    <view class="kuang4"></view>
+    <view class="kuang5"></view>
+    <view class="kuang6"></view>
+</view>

@@ -1,0 +1,35 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/waisong/waisong",
+    "pages/jinxingzhong/jinxingzhong",
+    "pages/lishi/lishi",
+    "pages/pay/pay",
+    "pages/logs/logs",
+    "pages/cancel/cancel",
+    "pages/evaluation/evaluation"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "南财云餐厅",
+    "navigationBarTextStyle":"black"    
+  },
+"tabBar": {
+    "color": "#ccc",
+    "selectedColor": "#35495e",
+    "borderStyle": "white",
+    "backgroundColor": "#f9f9f9",
+    "position": "top",
+  "list": [{
+    "pagePath": "pages/jinxingzhong/jinxingzhong",
+    "text": "进行中"
+  },
+  {
+    "pagePath": "pages/lishi/lishi",
+    "text": "历史"
+  }
+]},
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
